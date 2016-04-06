@@ -1,0 +1,6 @@
+
+# Local configuration
+.zabbix
+
+# Dependency; arguably could be in this repo but not really mastered here
+zabbix_api.py
